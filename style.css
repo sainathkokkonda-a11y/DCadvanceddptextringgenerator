@@ -11,10 +11,10 @@ body {
   max-width: 700px;
   margin: 20px auto;
   background: #ffffff;
-  border-radius: 12px;
+  border-radius: 16px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
   overflow: hidden;
-  border: 1px solid #e1e8ed;
+  border: 2px solid #1565c0;
 }
 .tool-header {
   background-color: #1565c0;
